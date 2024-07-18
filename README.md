@@ -28,3 +28,6 @@ This is a decentralized application (DApp) that allows users to send and view tr
 ![捕获](https://github.com/luobaiYoRHa/ETH_transaction_system/assets/157203602/3c970ce7-649d-48bc-8b31-1d796500717c)
 ![捕获2](https://github.com/luobaiYoRHa/ETH_transaction_system/assets/157203602/00f90932-7c3c-4de0-bf89-b254846c2210)
 
+### How to Run
+npm run dev
+
